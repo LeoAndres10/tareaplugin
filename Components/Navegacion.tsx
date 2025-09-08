@@ -15,7 +15,7 @@ export default function Navegacion() {
     <NavigationContainer>
         <tab.Navigator>
             
-        <tab.Screen name='Calendario' component={Calendario}></tab.Screen>
+        
         <tab.Screen name='Bateria' component={Bateria}></tab.Screen>
 
         </tab.Navigator>
